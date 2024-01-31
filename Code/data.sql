@@ -1,0 +1,1 @@
+select * from SELF_SERVE_TEST.LCL.TEST_TABLE
